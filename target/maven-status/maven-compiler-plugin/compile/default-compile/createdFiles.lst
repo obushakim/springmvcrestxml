@@ -1,0 +1,4 @@
+obus\test\springmvcrestxml\service\ObusService.class
+obus\test\springmvcrestxml\model\Obus.class
+obus\test\springmvcrestxml\controller\ObusController.class
+obus\test\springmvcrestxml\dao\ObusDao.class
